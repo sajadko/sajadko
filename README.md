@@ -3,6 +3,9 @@
 
 <br />
 
+<p align="center"><img src="https://user-images.githubusercontent.com/30021776/145815797-8758be30-757b-42f7-9683-b5e3549b408e.gif" /></p>
+
+
 🧠 I’m currently learning **Machine Learning , Deep Learning , C++ & Python**
 
 👯 I’m looking to collaborate on **Software &#x2229; ML/DL open source projects**
