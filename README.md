@@ -5,6 +5,7 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/30021776/145815797-8758be30-757b-42f7-9683-b5e3549b408e.gif" /></p>
 
+<img src="https://komarev.com/ghpvc/?username=sajadko&style=for-the-badge&color=blue" alt="Profile Views" height="25"/>
 
 🧠 I’m currently learning **Machine Learning , Deep Learning , C++ & Python**
 
