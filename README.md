@@ -27,6 +27,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" height="40" width="40"/>
 <img src="https://pytorch.org/assets/images/logo-icon.svg" title="Pytorch" height="40" width="40"/>
 <img src="https://raw.githubusercontent.com/wiki/opencv/opencv/logo/OpenCV_logo_no_text.png" title="OpenCV" height="40" width="43"/>
+<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" title="FastAPI" height="40" width="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" title="Google Colab" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" title="Kaggle" height="40" width="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="VSCode" height="40" width="40"/>
@@ -40,4 +41,3 @@
 <a href="https://huggingface.co/sajadk"><img src="https://img.shields.io/badge/Huggingface-FFD21E?style=for-the-badge" /></a>
 <a href="https://www.kaggle.com/sajadko"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
 </p>
-
