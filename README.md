@@ -11,8 +11,9 @@
 
 📄 CV/Resume : <a href="https://sajadko.github.io/" target="_blank">**SajadKo.github.io**</a>
 
-<hr />
+<a href="#"><img src="./dashed_line.svg" /></a>
 <h3>🛠️ Languages and Tools :</h3>
+<br />
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" title="C++" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" height="40" width="40"/>
@@ -27,7 +28,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="VSCode" height="40" width="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" title="PyCharm" height="40" width="40"/>
 </p>
-<hr />
+<a href="#"><img src="./dashed_line.svg" /></a>
+<br />
 <p>
 <a href="https://www.linkedin.com/in/sajadkolahchi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://huggingface.co/sajadk"><img src="https://img.shields.io/badge/Huggingface-FFD21E?style=for-the-badge" /></a>
