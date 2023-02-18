@@ -15,18 +15,18 @@
 <h3>🛠️ Languages and Tools :</h3>
 <br />
 <p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" title="C++" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" title="Go" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" height="40" width="40"/>
-<img src="https://pytorch.org/assets/images/logo-icon.svg" title="Pytorch" height="40" width="40"/>
-<img src="https://raw.githubusercontent.com/wiki/opencv/opencv/logo/OpenCV_logo_no_text.png" title="OpenCV" height="40" width="43"/>
-<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" title="FastAPI" height="40" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" title="Google Colab" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" title="Kaggle" height="40" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="VSCode" height="40" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" title="PyCharm" height="40" width="40"/>
+<code><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" title="C++" height="40" width="40"/></a></code>
+<code><a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" height="40" width="40"/></a></code>
+<code><a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" height="40" width="40"/></a></code>
+<code><a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" title="Go" height="40" width="40"/></a></code>
+<code><a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" height="40" width="40"/></a></code>
+<code><a href="#"><img src="https://pytorch.org/assets/images/logo-icon.svg" title="Pytorch" height="40" width="40"/></a></code>
+<code><a href="#"><img src="https://raw.githubusercontent.com/wiki/opencv/opencv/logo/OpenCV_logo_no_text.png" title="OpenCV" height="40" width="43"/></a></code>
+<code><a href="#"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" title="FastAPI" height="40" width="40"/></a></code>
+<code><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" title="Google Colab" height="40" width="40"/></a></code>
+<code><a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" title="Kaggle" height="40" width="40"/></a></code>
+<code><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="VSCode" height="40" width="40"/></a></code>
+<code><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" title="PyCharm" height="40" width="40"/></a></code>
 </p>
 <a href="#"><img src="./dashed_line.svg" /></a>
 <br />
