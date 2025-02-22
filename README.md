@@ -1,11 +1,11 @@
 <a href="#"><img src="./header.svg" /></a>
 <img src="https://komarev.com/ghpvc/?username=sajadko&style=for-the-badge&color=blue" alt="Profile Views" height="25"/>
 
-🧠 I’m currently learning **Machine Learning , Deep Learning , C++ & Python**
+🧠 I’m currently learning **ML\DL , Python , SaaS Development**
 
 🤓 I’m looking to collaborate on **Software &#x2229; ML/DL open source projects**
 
-💬 Ask me about **ML/DL , C++ , Python , Computer Science in general 🙂**
+😎 Currently working on some **SaaS Platforms**.
 
 📫 How to reach me : **sajad.kolahchi@gmail.com**
 
@@ -15,10 +15,11 @@
 <h3>🛠️ Languages and Tools :</h3>
 <br />
 <p>
-<code><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" title="C++" height="40" width="40"/></a></code>
 <code><a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" height="40" width="40"/></a></code>
-<code><a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" height="40" width="40"/></a></code>
-<code><a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" title="Go" height="40" width="40"/></a></code>
+<code><a href="#"><img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" title="JS" height="40" width="40"/></a></code>
+<code><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" title="C++" height="40" width="40"/></a></code>
+<code><a href="#"><img src="https://www.svgrepo.com/show/353657/django-icon.svg" title="Django" height="40" width="40"/></a></code>
+<code><a href="#"><img src="https://www.svgrepo.com/show/452092/react.svg" title="React.JS" height="40" width="40"/></a></code>
 <code><a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" height="40" width="40"/></a></code>
 <code><a href="#"><img src="https://pytorch.org/assets/images/logo-icon.svg" title="Pytorch" height="40" width="40"/></a></code>
 <code><a href="#"><img src="https://raw.githubusercontent.com/wiki/opencv/opencv/logo/OpenCV_logo_no_text.png" title="OpenCV" height="40" width="43"/></a></code>
